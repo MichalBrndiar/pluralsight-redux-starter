@@ -1,0 +1,6 @@
+export default {
+    LOAD_MOVIES: 'LOAD_MOVIES',
+    LOAD_ACTORS: 'LOAD_ACTORS',
+    CREATE_MOVIE: 'CREATE_MOVIE',
+    ADD_ACTOR: 'ADD_ACTOR'
+};
